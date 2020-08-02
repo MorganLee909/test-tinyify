@@ -1,0 +1,1 @@
+({foo:function(){document.getElementById("button").onclick=()=>{this.bar()}}}).foo();
